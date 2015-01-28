@@ -1,0 +1,14 @@
+{
+    "name" : "MFGrunt",
+    "version" : "0.1.0",
+    "author" : "Munawar Ahmed",
+    "private" : true,
+
+    "devDependencies" : {
+        "grunt" :                   "~0.4.0",
+        "grunt-contrib-clean" :		"*",
+        "grunt-contrib-compass" :	"*",
+        "grunt-contrib-watch" :		"*",
+        "matchdep" :				"*"
+    }
+}
